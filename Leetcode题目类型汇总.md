@@ -14,6 +14,11 @@
 
 > 找到下一个比当前大或者小的第一个元素
 
+- [x] [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)(困难)
+- [ ] [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)(困难)
+- [x] [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/)(中等)
+- [x] [1081. 不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/)（中等）https://leetcode-cn.com/problems/remove-k-digits/)
+
 
 
 ## 回溯
