@@ -18,6 +18,8 @@
 - [ ] [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)(困难)
 - [x] [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/)(中等)
 - [x] [1081. 不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/)（中等）https://leetcode-cn.com/problems/remove-k-digits/)
+- [x] [907. 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)  同时求下一最小数和上一个最小数
+- [x] [2104. 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/)  
 
 
 
