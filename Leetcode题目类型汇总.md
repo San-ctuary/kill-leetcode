@@ -20,6 +20,7 @@
 - [x] [1081. 不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/)（中等）https://leetcode-cn.com/problems/remove-k-digits/)
 - [x] [907. 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)  同时求下一最小数和上一个最小数
 - [x] [2104. 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/)  
+- [x] [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 
 
 
